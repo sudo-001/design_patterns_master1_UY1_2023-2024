@@ -1,3 +1,5 @@
+package PatternFactory.code.Factory;
+
 public class ProduitFactory1 extends ProductFactory {
     /**
      * Creates a new instance of `ProduitA` by returning a new instance of

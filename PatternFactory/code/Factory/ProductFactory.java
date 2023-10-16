@@ -1,3 +1,5 @@
+package PatternFactory.code.Factory;
+
 public abstract class ProductFactory {
     protected abstract ProduitA createProduitA();
 

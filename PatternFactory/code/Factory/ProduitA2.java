@@ -1,3 +1,5 @@
+package PatternFactory.code.Factory;
+
 public class ProduitA2 extends ProduitA {
     /**
      * The implementation of the methodA extended from ProduitA.
