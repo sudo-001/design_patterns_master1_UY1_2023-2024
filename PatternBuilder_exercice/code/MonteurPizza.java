@@ -1,13 +1,9 @@
-package PatternBuilder.code;
+package PatternBuilder_exercice.code;
 
 public abstract class MonteurPizza {
     protected Pizza pizza;
 
-    public Pizza getPizza() {
-        pizza.print();
-        return this.pizza;
-    }
-
+    public abstract Pizza getPizza();
     public void creerNouvellePizza() {
         this.pizza = new Pizza();
     }
