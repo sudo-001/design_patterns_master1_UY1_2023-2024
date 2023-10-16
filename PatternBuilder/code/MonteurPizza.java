@@ -3,8 +3,8 @@ package PatternBuilder.code;
 public abstract class MonteurPizza {
     protected Pizza pizza;
 
-    public Pizza getPizza() {
-        return pizza;
+    public void getPizza() {
+        pizza.print();
     }
 
     public void creerNouvellePizza() {
