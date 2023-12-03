@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Construction/PatternAbstractFactory_exercice/PatternAbstractFactory_exercice.iml" filepath="$PROJECT_DIR$/Construction/PatternAbstractFactory_exercice/PatternAbstractFactory_exercice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Construction/PatternFactory/PatternFactory.iml" filepath="$PROJECT_DIR$/Construction/PatternFactory/PatternFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Construction/PatternFactory_exercice/PatternFactory_exercice.iml" filepath="$PROJECT_DIR$/Construction/PatternFactory_exercice/PatternFactory_exercice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Construction/PatternSingleton/PatternSingleton.iml" filepath="$PROJECT_DIR$/Construction/PatternSingleton/PatternSingleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design_patterns_master1_UY1_2023-2024.iml" filepath="$PROJECT_DIR$/design_patterns_master1_UY1_2023-2024.iml" />
+    </modules>
+  </component>
+</project>
